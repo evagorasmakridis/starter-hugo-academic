@@ -50,7 +50,7 @@ item:
 - certificate_url:
   date_end: ""
   date_start: "2020-03-20"
-  description: 'Our paper with title "Towards Robust Onboard Control for Quadrotors via Ultra-Wideband-based Localization" has been accepted for publication and presentation at the International Conference on Wireless Communications and Mobile Computing (IWCMC)'
+  description: 'Our paper with title \"Towards Robust Onboard Control for Quadrotors via Ultra-Wideband-based Localization\" has been accepted for publication and presentation at the International Conference on Wireless Communications and Mobile Computing (IWCMC)'
   organization: International Conference on Wireless Communications and Mobile Computing (IWCMC)
   organization_url: https://www.iwcmc2021.com
   title: 'Accepted Conference Paper'
