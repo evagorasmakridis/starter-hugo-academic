@@ -28,8 +28,8 @@ doi: "10.1109/ETFA.2017.8247677"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE International Conference on Emerging Technologies and Factory Automation*
-publication_short: In *ETFA*
+publication: In *22nd IEEE International Conference on Emerging Technologies and Factory Automation (ETFA)*
+#publication_short: In *ETFA*
 
 abstract: Virtualized servers have been the key for the efficient deployment of cloud applications. As the application demand increases, it is important to dynamically adjust the CPU allocation of each component in order to save resources for other applications and keep performance high, e.g., the client mean response time (mRT) should be kept below a Quality of Service (QoS) target. In this work, a new form of Kalman filter, called the Maximum Correntropy Criterion Kalman Filter (MCC-KF), has been used in order to predict, and hence, adjust the CPU allocations of each component while the RUBiS auction site workload changes randomly as the number of clients varies. MCC-KF has shown high performance when the noise is non-Gaussian, as it is the case in the CPU usage. Numerical evaluations compare our designed framework with other current state-of-the-art using real-data via the RUBiS benchmark website deployed on a prototype Xen-virtualized cluster.
 
@@ -67,15 +67,15 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+#projects:
+#- example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 ---
 
 {{% callout note %}}
