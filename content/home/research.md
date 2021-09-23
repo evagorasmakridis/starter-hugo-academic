@@ -27,14 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Distributed Optimization and Control
-    tag: Distributed Optimization and Control
+  - name: Distributed Decision and Control
+    tag: Distributed Decision and Control
   - name: Autonomous Systems
     tag: Autonomous Systems
-  - name: Reinforcement Learning
-    tag: Reinforcement Learning
-  - name: Resource Management
-    tag: Resource Management
+  - name: Distributed Resource Management
+    tag: Distributed Resource Management
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
