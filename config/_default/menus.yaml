@@ -13,9 +13,9 @@ main:
   - name: Latest News
     url: '#accomplishments'
     weight: 30
-  - name: Research
-    url: '#research'
-    weight: 30
+#  - name: Research
+#    url: '#research'
+#    weight: 30
 #  - name: Talks
 #    url: '#talks'
 #    weight: 40
