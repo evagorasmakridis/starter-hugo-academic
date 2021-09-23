@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: Distributed Optimization for Resource Management
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
