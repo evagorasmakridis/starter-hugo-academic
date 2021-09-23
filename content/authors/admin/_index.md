@@ -77,4 +77,4 @@ Evagoras Makridis received his B.Sc. degree in Electrical Engineering from [Cypr
 Throughout his research, he published one journal and two conference papers in peer reviewed IEEE venues in the area of automation and control, wireless communications, and services computing. His research interests focus on estimation and control for autonomous systems, sequential decision-making and reinforcement learning (RL) for automated resource management in distributed and networked systems.
 
 
-{{< icon name="mail" pack="fas" >}} Ask for a copy of my {{< staticref "#contact" >}}resumé{{< /staticref >}}.
+{{< icon name="envelope" pack="fas" >}} Ask for a copy of my {{< staticref "#contact" >}}resumé{{< /staticref >}}.
