@@ -1,5 +1,5 @@
 ---
-title: "Dynamic CPU Resource Provisioning in Virtualized Servers using Maximum Correntropy Criterion Kalman Filters"
+title: "Robust Dynamic CPU Resource Provisioning in Virtualized Servers"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -8,6 +8,7 @@ authors:
 - admin
 - Kyriakos M Deliparaschos
 - Evangelia Kalyvianaki
+- Argyrios Zolotas
 - Themistoklis Charalambous
 
 # Author notes (optional)
@@ -15,8 +16,8 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2017-09-12T00:00:00Z"
-doi: "10.1109/ETFA.2017.8247677"
+date: "2020-01-15T00:00:00Z"
+doi: "10.1109/TSC.2020.2966972"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
@@ -25,18 +26,17 @@ doi: "10.1109/ETFA.2017.8247677"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *22nd IEEE International Conference on Emerging Technologies and Factory Automation (ETFA)*
+publication: In *IEEE Transactions on Services Computing (TSC)*
 #publication_short: In *ETFA*
 
-abstract: Virtualized servers have been the key for the efficient deployment of cloud applications. As the application demand increases, it is important to dynamically adjust the CPU allocation of each component in order to save resources for other applications and keep performance high, e.g., the client mean response time (mRT) should be kept below a Quality of Service (QoS) target. In this work, a new form of Kalman filter, called the Maximum Correntropy Criterion Kalman Filter (MCC-KF), has been used in order to predict, and hence, adjust the CPU allocations of each component while the RUBiS auction site workload changes randomly as the number of clients varies. MCC-KF has shown high performance when the noise is non-Gaussian, as it is the case in the CPU usage. Numerical evaluations compare our designed framework with other current state-of-the-art using real-data via the RUBiS benchmark website deployed on a prototype Xen-virtualized cluster.
-
+abstract: We present robust dynamic resource allocation mechanisms to allocate application resources meeting Service Level Objectives (SLOs) agreed between cloud providers and customers. In fact, two filter-based robust controllers, i.e. H∞ filter and Maximum Correntropy Criterion Kalman filter (MCC-KF), are proposed. The controllers are self-adaptive, with process noise variances and covariances calculated using previous measurements within a time window. In the allocation process, a bounded client mean response time (mRT) is maintained. Both controllers are deployed and evaluated on an experimental testbed hosting the RUBiS (Rice University Bidding System) auction benchmark web site. The proposed controllers offer improved performance under abrupt workload changes, shown via rigorous comparison with current state-of-the-art. On our experimental setup, the Single-Input-Single-Output (SISO) controllers can operate on the same server where the resource allocation is performed; while Multi-Input-Multi-Output (MIMO) controllers are on a separate server where all the data are collected for decision making. SISO controllers take decisions not dependent to other system states (servers), albeit MIMO controllers are characterized by increased communication overhead and potential delays. While SISO controllers offer improved performance over MIMO ones, the latter enable a more informed decision making framework for resource allocation problem of multi-tier applications.
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Resource provisioning,virtualized servers,CPU allocation,CPU usage,RUBiS,Kalman filter]
+tags: [Resource provisioning,virtualized servers,CPU allocation,CPU usage,RUBiS,Robust prediction,H1 filter,MCC-KF,Kalman filter]
 
 # Display this page in the Featured widget?
 featured: true
@@ -46,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/abstract/document/8247677'
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/8960454'
 url_code: ''
 url_dataset: ''
 url_poster: ''
