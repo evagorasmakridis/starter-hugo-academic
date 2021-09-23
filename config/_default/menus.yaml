@@ -10,6 +10,9 @@ main:
 #  - name: Posts
 #    url: '#posts'
 #    weight: 20
+  - name: Latest News
+    url: '#featured'
+    weight: 30
   - name: Research
     url: '#research'
     weight: 30
