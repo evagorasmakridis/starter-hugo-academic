@@ -1,54 +1,61 @@
 ---
-# A Demo section created with the Blank widget.
-# Any elements can be added in the body: https://sourcethemes.com/academic/docs/writing-markdown-latex/
-# Add more sections by duplicating this file and customizing to your requirements.
+# An instance of the Accomplishments widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: accomplishments
 
-widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 3  # Order that this section will appear.
+# This file represents a page section.
+headless: true
 
-title = "Recent News"
+# Order that this section appears on the page.
+weight: 50
+
+# Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+title = "Latest News"
 subtitle = "[All news](/news)"
 
-[design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+# Date format
+#   Refer to https://wowchemy.com/docs/customization/#date-format
+date_format: Jan 2006
 
-[design.background]
-  # Apply a background color, gradient, or image.
-  #   Uncomment (by removing `#`) an option to apply it.
-  #   Choose a light or dark text color by setting `text_color_light`.
-  #   Any HTML color name or Hex value is valid.
-
-  # Background color.
-  # color = "navy"
+# Accomplishments.
+#   Add/remove as many `item` blocks below as you like.
+#   `title`, `organization`, and `date_start` are the required parameters.
+#   Leave other parameters empty if not required.
+#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+item:
+- certificate_url:
+  date_end: ""
+  date_start: "2021-09-06"
+  description: "Started PhD at Electrical and Computer Engineering Department"
+  organization: University of Cyprus
+  organization_url: https://www.ucy.ac.cy
+  title: 'PhD Studies'
+  url: ""
+- certificate_url:
+  date_end: ""
+  date_start: "2021-02-01"
+  description: "Joined Suite5 Data Intelligence Ltd as ICT Researcher"
+  organization: Suite5 Data Intelligence Ltd
+  organization_url: https://www.suite5.eu
+  title: 'ICT Researcher Position'
+  url: 
+- certificate_url:
+  date_end: ""
+  date_start: "2020-10-23"
+  description: "Successfully defended my MSc thesis ‘Reinforcement Learning for Radio Resource Management in 5G-NR Networks"
+  organization: KTH Royal Institute of Technology
+  organization_url: https://www.kth.se
+  title: 'MSc Thesis Defence'
+  url: ""
+- certificate_url:
+  date_end: ""
+  date_start: "2020-03-20"
+  description: "Our paper with title: Towards Robust Onboard Control for Quadrotors via Ultra-Wideband-based Localization, has been accepted for publication and presentation at the International Conference on Wireless Communications and Mobile Computing (IWCMC)"
+  organization: International Conference on Wireless Communications and Mobile Computing (IWCMC)
+  organization_url: https://www.iwcmc2021.com
+  title: 'Accepted Conference Paper'
+  url: ""
   
-  # Background gradient.
-  # gradient_start = "DarkGreen"
-  # gradient_end = "ForestGreen"
-  
-  # Background image.
-  # image = "pylons.jpg"  # Name of image in `static/img/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  # image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
-  
-  # Text color (true=light or false=dark).
-  # text_color_light = true
-
-[design.spacing]
-  # Customize the section spacing. Order is top, right, bottom, left.
-  # padding = ["20px", "0", "20px", "0"]
-
-[advanced]
- # Custom CSS. 
- css_style = ""
- 
- # CSS class.
- css_class = ""
-
-{{< readfromfile "/content/newslist.dat" 5 >}} 
-
+design:
+  columns: '2' 
 ---
