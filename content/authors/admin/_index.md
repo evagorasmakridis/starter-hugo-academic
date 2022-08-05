@@ -14,13 +14,13 @@ organizations:
   url: https://www.ucy.ac.cy/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include autonomous systems and more specifically in networked control systems, and data-driven sequential decision-making (Reinforcement Learning), with applications in quadrotor navigation, resource management, and wireless link adaptation and scheduling.
+bio: My research interests include autonomous systems in networks, distributed optimization, and data-driven sequential decision-making (Reinforcement Learning), with applications in quadrotor navigation, resource management, and wireless link adaptation and scheduling.
 
 # Interests to show in About widget
 interests:
+- Distributed Optimization
 - Networked Control Systems
 - Autonomous Systems
-- Distributed Optimization
 - Reinforcement Learning
 
 # Education to show in About widget
@@ -72,9 +72,8 @@ highlight_name: true
 ---
 <div align="justify" 
      
-I received my B.Sc. degree in Electrical Engineering from [Cyprus University of Technology](https://www.cut.ac.cy/?languageId=1) in June 2017, and my M.Sc. degree in Autonomous Systems from [KTH Royal Institute of Technology](https://www.kth.se/) and [Aalto University](https://www.aaltoa.fi/fi) holding an excellence scholarship from [EIT Digital Master School](https://masterschool.eitdigital.eu/). During my postgraduate (M.Sc.) studies, I worked as a Research Assistant at Aalto University and Research Engineer Fellow at KTH Royal Institute of Technology. Towards the end of my postgraduate studies, I joined [Ericsson AB](https://www.ericsson.com/en) to pursue my M.Sc. thesis entitled “Reinforcement Learning for Radio Resource Management in 5G-NR Networks”. Recently, I have been accepted to pursue my doctoral (Ph.D) studies, focusing on distributed decision and control of networked systems, at the Electrical and Computer Engineering Department at the [University of Cyprus](https://ucy.ac.cy/en/), under the supervision of [Prof. Themistoklis Charalambous](https://themistoklis.org/).
+I received my B.Sc. degree in Electrical Engineering from [Cyprus University of Technology](https://www.cut.ac.cy/?languageId=1) in June 2017, and my M.Sc. degree in Autonomous Systems from [KTH Royal Institute of Technology](https://www.kth.se/) and [Aalto University](https://www.aaltoa.fi/fi) holding an excellence scholarship from [EIT Digital Master School](https://masterschool.eitdigital.eu/). During my postgraduate (M.Sc.) studies, I worked as a Research Assistant at Aalto University and Research Engineer Fellow at KTH Royal Institute of Technology. Towards the end of my postgraduate studies, I joined [Ericsson AB](https://www.ericsson.com/en) to pursue my M.Sc. thesis entitled “Reinforcement Learning for Radio Resource Management in 5G-NR Networks”. I am currently doctoral (Ph.D) student working on distributed optimization for decision and control of networked systems, at the Electrical and Computer Engineering Department at the [University of Cyprus](https://ucy.ac.cy/en/), under the supervision of [Prof. Themistoklis Charalambous](https://themistoklis.org/).
 
-My research interests focus on estimation and control for autonomous systems, sequential decision-making and reinforcement learning (RL) for automated resource management in distributed and networked systems.
-
+My research interests focus on distributed optimization for decision and control of networked systems, with applications in quadrotor navigation, resource management, and wireless link adaptation and scheduling.
 
 {{< icon name="envelope" pack="fas" >}} Ask for a copy of my {{< staticref "#contact" >}}resumé{{< /staticref >}}.
