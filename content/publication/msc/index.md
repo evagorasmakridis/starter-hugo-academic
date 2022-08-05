@@ -31,7 +31,7 @@ publication: In *TRITA-EECS-EX ; 2020:909*
 abstract: The Adaptive Modulation and Coding (AMC) scheme in the link adaptation is a core feature in the current cellular networks. In particular, based on Channel Quality Indicator (CQI) measurements that are computed from the Signal-to-Interference-plus-Noise Ratio (SINR) level of User Equipment (UE), the base station (e.g., Next Generation NodeB (gNB)) selects a Modulation and Coding Scheme (MCS) to be used for the next downlink transmission. However, communication channels are inherently variant due to changes in traffic load, user mobility, and transmission delays and thus the estimation of the SINR levels at the transmitter side usually deviates from the actual value. The Outer-Loop Link Adaptation (OLLA) technique was proposed to improve the channel quality estimation by adjusting the value of SINR by an offset dependent on whether previous transmissions were decoded successfully or not captured by Hybrid Automatic Repeat Request (HARQ) feedback. Although this technique indeed improves the user throughput, it typically takes several Transmission Time Intervals (TTIs) to converge to a certain SINR value that fulfills a predefined target Block Error Rate (BLER). As a result, the slow convergence speed of the OLLA mechanism causes inaccurate MCS selection specially for users with bursty traffic, while it needs to be a priori tuned with a fixed BLER target. These factors lead to degraded network performance, in terms of throughput and spectral efficiency. To cope with these challenges, in this project we propose a reinforcement learning (RL) framework where an agent takes observations from the environment (e.g., from UEs and the network) and learns proper policies that adjust the estimated SINR, such that a reward function (i.e., the UE normalized throughput) is maximized. This framework was designed and developed in a radio network system-level simulator, while for the agents using RL (hereafter called RL agents), Deep Q-Network (DQN) and Proximal Policy Optimization (PPO) models were trained accordingly. Both models showed significant increment of about 1.6% - 2.5% and 10% - 17% on the average throughput for mid-cell and cell-edge users respectively, over the current state-of-the-art OLLA mechanism. Finally, setting a priori a fixed BLER target is not needed, and hence the RL-based link adaptation performs well in diverse radio conditions. 
 
 # Summary. An optional shortened abstract.
-#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudincondimentum.
 
 tags: [Reinforcement Learning, Link Adaptation, 5G Networks, DQN, PPO, Optimization]
 
@@ -75,12 +75,12 @@ url_video: ''
 #slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+# {{% callout note %}}
+# Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+# {{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+# {{% callout note %}}
+#Create your slides in Markdown - click the *Slides* button to check out the example.
+# {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+# Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
