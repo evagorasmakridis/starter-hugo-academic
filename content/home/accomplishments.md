@@ -25,6 +25,22 @@ date_format: Jan 2006
 item:
 - certificate_url:
   date_end: ""
+  date_start: "2022-06-26"
+  description: "Awarded a PhD scholarship from the A.G. Leventis Foundation"
+  organization: A.G. Leventis Foundation
+  organization_url: https://www.leventisscholarships.org
+  title: 'The A.G. Leventis Foundation PhD Scholarship'
+  url: ""
+- certificate_url:
+  date_end: ""
+  date_start: "2021-10-08"
+  description: "Awarded a PhD scholarship from the Department of Electrical and Computer Engineering"
+  organization: University of Cyprus
+  organization_url: https://www.ucy.ac.cy
+  title: 'UCY PhD Scholarship'
+  url: ""
+- certificate_url:
+  date_end: ""
   date_start: "2021-09-06"
   description: "Started PhD at Electrical and Computer Engineering Department"
   organization: University of Cyprus
