@@ -25,6 +25,14 @@ date_format: Jan 2006
 item:
 - certificate_url:
   date_end: ""
+  date_start: "2022-09-19"
+  description: "Our paper with title: 'Onboard Real-Time Multi-Sensor Pose Estimation for Indoor Quadrotor Navigation with Intermittent Communication' has been accepted for publication and presentation at the IEEE GLOBECOM 2022 Conference"
+  organization: IEEE Global Communications Conference (GLOBECOM)
+  organization_url: https://globecom2022.ieee-globecom.org
+  title: 'Accepted Conference Paper'
+  url: ""
+- certificate_url:
+  date_end: ""
   date_start: "2022-06-26"
   description: "Awarded a PhD scholarship from the A.G. Leventis Foundation"
   organization: A.G. Leventis Foundation
