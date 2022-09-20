@@ -40,8 +40,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 # links:
-- name: Demo Video
-  url: https://www.youtube.com/watch?v=pEBHR3MTPuA
+#- name: Demo Video
+#  url: https://www.youtube.com/watch?v=pEBHR3MTPuA
 
 url_pdf: 'https://ieeexplore.ieee.org/abstract/document/9148351'
 url_code: ''
