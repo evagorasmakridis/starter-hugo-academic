@@ -1,5 +1,5 @@
 ---
-title: "Towards Robust Onboard Control for Quadrotors via Ultra-Wideband-based Localization"
+title: "Onboard Real-Time Multi-Sensor Pose Estimation for Indoor Quadrotor Navigation with Intermittent Communication"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
