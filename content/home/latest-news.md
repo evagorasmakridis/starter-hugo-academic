@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url:
   date_end: ""
-  date_start: "2022-09-18"
+  date_start: "2023-01-22"
   description: "Our paper with title: Utilizing Feedback Channel Mechanisms for Reaching Average Consensus over Directed Network Topologies, has been accepted for publication and presentation at the IEEE ACC 2023 Conference"
   organization: IEEE American Control Conference (ACC)
   organization_url: https://acc2023.a2c2.org
