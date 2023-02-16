@@ -26,6 +26,14 @@ item:
 - certificate_url:
   date_end: ""
   date_start: "2022-09-18"
+  description: "Our paper with title: Utilizing Feedback Channel Mechanisms for Reaching Average Consensus over Directed Network Topologies, has been accepted for publication and presentation at the IEEE ACC 2023 Conference"
+  organization: IEEE American Control Conference (ACC)
+  organization_url: https://acc2023.a2c2.org
+  title: 'Accepted Conference Paper'
+  url: ""
+- certificate_url:
+  date_end: ""
+  date_start: "2022-09-18"
   description: "Our paper with title: Onboard Real-Time Multi-Sensor Pose Estimation for Indoor Quadrotor Navigation with Intermittent Communication, has been accepted for publication and presentation at the IEEE GLOBECOM 2022 Conference"
   organization: IEEE Global Communications Conference (GLOBECOM)
   organization_url: https://globecom2022.ieee-globecom.org
