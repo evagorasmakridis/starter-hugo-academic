@@ -25,6 +25,14 @@ date_format: Jan 2006
 item:
 - certificate_url:
   date_end: ""
+  date_start: "2023-04-22"
+  description: "Our paper with title: Maximum Correntropy Criterion Kalman Filter for Indoor Quadrotor Navigation under Intermittent Measurements, has been accepted for publication and presentation at the MED 2023 Conference"
+  organization: Mediterranean Conference on Control and Automation (MED)
+  organization_url: https://med2023.eu/
+  title: 'Accepted Conference Paper'
+  url: ""
+- certificate_url:
+  date_end: ""
   date_start: "2023-01-22"
   description: "Our paper with title: Utilizing Feedback Channel Mechanisms for Reaching Average Consensus over Directed Network Topologies, has been accepted for publication and presentation at the IEEE ACC 2023 Conference"
   organization: IEEE American Control Conference (ACC)
