@@ -73,28 +73,13 @@ item:
   url: ""
 - certificate_url:
   date_end: ""
-  date_start: "2021-02-01"
-  description: "Joined Suite5 Data Intelligence Ltd as ICT Researcher"
-  organization: Suite5 Data Intelligence Ltd
-  organization_url: https://www.suite5.eu
-  title: 'ICT Researcher Position'
-  url: 
-- certificate_url:
-  date_end: ""
   date_start: "2020-10-23"
   description: "Successfully defended my MSc thesis ‘Reinforcement Learning for Radio Resource Management in 5G-NR Networks"
   organization: KTH Royal Institute of Technology
   organization_url: https://www.kth.se
   title: 'MSc Thesis Defence'
   url: ""
-- certificate_url:
-  date_end: ""
-  date_start: "2020-03-20"
-  description: "Our paper with title: Towards Robust Onboard Control for Quadrotors via Ultra-Wideband-based Localization, has been accepted for publication and presentation at the International Conference on Wireless Communications and Mobile Computing (IWCMC)"
-  organization: International Conference on Wireless Communications and Mobile Computing (IWCMC)
-  organization_url: https://www.iwcmc2021.com
-  title: 'Accepted Conference Paper'
-  url: ""
+
   
 design:
   columns: '2' 
