@@ -14,12 +14,12 @@ organizations:
   url: https://www.ucy.ac.cy/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include autonomous systems in networks, distributed optimization, and data-driven sequential decision-making (Reinforcement Learning), with applications in quadrotor navigation, resource management, and wireless link adaptation and scheduling.
+bio: My research interests include autonomous systems in networks, distributed optimization, and data-driven sequential decision-making (Reinforcement Learning), with applications in quadrotor navigation, and resource management.
 
 # Interests to show in About widget
 interests:
 - Distributed Optimization
-- Networked Control Systems
+- Multi-Agent Systems
 - Autonomous Systems
 - Reinforcement Learning
 
