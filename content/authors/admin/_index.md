@@ -28,16 +28,16 @@ education:
   courses:
   - course: PhD in Electrical Engineering
     institution: University of Cyprus
-    year: 2021
+    year: 2021~
   - course: MSc in Autonomous Systems
     institution: KTH Royal Institute of Technology
-    year: 2020
+    year: 2019-2020
   - course: MSc in Autonomous Systems
     institution: Aalto University
-    year: 2019
+    year: 2018-2019
   - course: BSc in Electrical Engineering
     institution: Cyprus University of Technology
-    year: 2017
+    year: 2013-2017
     
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
