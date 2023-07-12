@@ -25,6 +25,14 @@ date_format: Jan 2006
 item:
 - certificate_url:
   date_end: ""
+  date_start: "2023-07-12"
+  description: "Our paper with title: Harnessing HARQ Retransmissions for Fast Average Consensus over Unreliable Communication Channels, has been accepted for publication and presentation at the CDC 2023 Conference"
+  organization: IEEE Conference on Decision and Control (CDC)
+  organization_url: https://cdc2023.ieeecss.org/
+  title: 'Accepted Conference Paper'
+  url: ""
+- certificate_url:
+  date_end: ""
   date_start: "2023-04-22"
   description: "Our paper with title: Maximum Correntropy Criterion Kalman Filter for Indoor Quadrotor Navigation under Intermittent Measurements, has been accepted for publication and presentation at the MED 2023 Conference"
   organization: Mediterranean Conference on Control and Automation (MED)
@@ -63,22 +71,22 @@ item:
   organization_url: https://www.ucy.ac.cy
   title: 'UCY PhD Scholarship'
   url: ""
-- certificate_url:
-  date_end: ""
-  date_start: "2021-09-06"
-  description: "Started PhD at Electrical and Computer Engineering Department"
-  organization: University of Cyprus
-  organization_url: https://www.ucy.ac.cy
-  title: 'PhD Studies'
-  url: ""
-- certificate_url:
-  date_end: ""
-  date_start: "2020-10-23"
-  description: "Successfully defended my MSc thesis ‘Reinforcement Learning for Radio Resource Management in 5G-NR Networks"
-  organization: KTH Royal Institute of Technology
-  organization_url: https://www.kth.se
-  title: 'MSc Thesis Defence'
-  url: ""
+#- certificate_url:
+#  date_end: ""
+#  date_start: "2021-09-06"
+#  description: "Started PhD at Electrical and Computer Engineering Department"
+#  organization: University of Cyprus
+#  organization_url: https://www.ucy.ac.cy
+#  title: 'PhD Studies'
+#  url: ""
+#- certificate_url:
+#  date_end: ""
+#  date_start: "2020-10-23"
+#  description: "Successfully defended my MSc thesis ‘Reinforcement Learning for Radio Resource Management in 5G-NR Networks"
+#  organization: KTH Royal Institute of Technology
+#  organization_url: https://www.kth.se
+#  title: 'MSc Thesis Defence'
+#  url: ""
 
   
 design:
