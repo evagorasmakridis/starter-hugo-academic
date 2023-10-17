@@ -57,7 +57,9 @@ if porridge == "blueberry":
 ## Ratio Consensus
 
 State variable update: $x_{k+1} = C x_{k}$
+
 Auxiliary variable update: $y_{k+1} = C y_{k}$
+
 Ratio update: $z_{k+1} = x_{k+1}/y_{k+1}$
 
 Block math:
