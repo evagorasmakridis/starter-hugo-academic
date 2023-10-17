@@ -54,9 +54,11 @@ if porridge == "blueberry":
 
 ---
 
-## Math
+## Ratio Consensus
 
-In-line math: $x + y = z$
+State variable update: $x_{k+1} = C x_{k}$
+Auxiliary variable update: $y_{k+1} = C y_{k}$
+Ratio update: $z_{k+1} = x_{k+1}/y_{k+1}$
 
 Block math:
 
@@ -160,6 +162,4 @@ Create `assets/css/reveal_custom.css` with:
 
 # Questions?
 
-[Ask](https://github.com/wowchemy/wowchemy-hugo-modules/discussions)
-
-[Documentation](https://wowchemy.com/docs/managing-content/#create-slides)
+[Ask](makridis.evagoras@ucy.acy.cy)
