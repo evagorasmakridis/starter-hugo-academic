@@ -44,7 +44,7 @@ featured: true
 #- name: Demo Video
 #  url: https://www.youtube.com/watch?v=pEBHR3MTPuA
 
-url_pdf: ''
+url_pdf: 'https://www.evagoras.org/publication/c6/example.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
