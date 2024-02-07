@@ -13,7 +13,7 @@ authors:
 #- "Equal contribution"
 
 date: "2021-02-15T00:00:00Z"
-doi: "urn:nbn:se:kth:diva-290081"
+doi: "https://www.diva-portal.org/smash/record.jsf?pid=diva2:1527910"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
@@ -43,7 +43,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.diva-portal.org/smash/record.jsf?pid=diva2:1527910'
+url_pdf: 'example.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
