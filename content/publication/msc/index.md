@@ -13,7 +13,7 @@ authors:
 #- "Equal contribution"
 
 date: "2021-02-15T00:00:00Z"
-doi: "https://www.diva-portal.org/smash/record.jsf?pid=diva2:1527910"
+doi: "urn:nbn:se:kth:diva-290081"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
@@ -39,11 +39,11 @@ tags: [Reinforcement Learning, Link Adaptation, 5G Networks, DQN, PPO, Optimizat
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Diva KTH
+url: https://www.diva-portal.org/smash/record.jsf?pid=diva2:1527910
 
-url_pdf: 'example.pdf'
+url_pdf: 'content/publication/msc/example.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
