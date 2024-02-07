@@ -43,7 +43,7 @@ featured: true
 # - name: Diva KTH
 # url: https://www.diva-portal.org/smash/record.jsf?pid=diva2:1527910
 
-url_pdf: 'content/publication/msc/example.pdf'
+url_pdf: 'publication/msc/example.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
