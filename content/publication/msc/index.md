@@ -39,9 +39,9 @@ tags: [Reinforcement Learning, Link Adaptation, 5G Networks, DQN, PPO, Optimizat
 featured: true
 
 # Custom links (uncomment lines below)
-links:
-- name: Diva KTH
-url: https://www.diva-portal.org/smash/record.jsf?pid=diva2:1527910
+# links:
+# - name: Diva KTH
+# url: https://www.diva-portal.org/smash/record.jsf?pid=diva2:1527910
 
 url_pdf: 'content/publication/msc/example.pdf'
 url_code: ''
@@ -49,7 +49,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
+url_source: 'https://www.diva-portal.org/smash/record.jsf?pid=diva2:1527910'
 url_video: ''
 
 # Featured image
