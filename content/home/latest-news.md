@@ -26,7 +26,7 @@ item:
 - certificate_url:
   date_end: ""
   date_start: "2024-02-29"
-  description: Our paper with title: "A Linear Push-Pull Average Consensus Algorithm for Delay-Prone Networks", has been accepted for publication and presentation at the ECC 2024 Conference
+  description: "Our paper with title: 'A Linear Push-Pull Average Consensus Algorithm for Delay-Prone Networks', has been accepted for publication and presentation at the ECC 2024 Conference"
   organization: IEEE European Control Conference (ECC)
   organization_url: https://ecc24.euca-ecc.org
   title: 'Accepted Conference Paper'
@@ -34,7 +34,7 @@ item:
 - certificate_url:
   date_end: ""
   date_start: "2024-02-29"
-  description: Our paper with title: "Distributed Optimization with Gradient Tracking over Heterogeneous Delay-Prone Directed Networks", has been accepted for publication and presentation at the ECC 2024 Conference
+  description: "Our paper with title: 'Distributed Optimization with Gradient Tracking over Heterogeneous Delay-Prone Directed Networks', has been accepted for publication and presentation at the ECC 2024 Conference"
   organization: IEEE European Control Conference (ECC)
   organization_url: https://ecc24.euca-ecc.org
   title: 'Accepted Conference Paper'
