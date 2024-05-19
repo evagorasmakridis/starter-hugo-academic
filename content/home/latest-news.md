@@ -25,6 +25,22 @@ date_format: Jan 2006
 item:
 - certificate_url:
   date_end: ""
+  date_start: "2024-05-16"
+  description: "Our journal paper with title: 'A Fully Distributed LTI Estimation Scheme Over Directed Graph Topologies', has been accepted for publication at the IEEE Control Systems Letters"
+  organization: IEEE Control Systems Letters (L-CSS)
+  organization_url: https://ieeexplore.ieee.org/document/10531756
+  title: 'Accepted Journal Paper'
+  url: ""
+- certificate_url:
+  date_end: ""
+  date_start: "2024-05-09"
+  description: "Our journal paper with title: 'Distributed Estimation and Control for LTI systems under Finite-Time Agreement', has been accepted for publication at the IEEE Transactions on Automatic Control"
+  organization: IEEE Transactions on Automatic Control (TAC)
+  organization_url: https://ieeexplore.ieee.org/document/10526433
+  title: 'Accepted Journal Paper'
+  url: ""
+- certificate_url:
+  date_end: ""
   date_start: "2024-02-29"
   description: "Our paper with title: 'A Linear Push-Pull Average Consensus Algorithm for Delay-Prone Networks', has been accepted for publication and presentation at the ECC 2024 Conference"
   organization: IEEE European Control Conference (ECC)
