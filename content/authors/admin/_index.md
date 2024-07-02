@@ -6,7 +6,7 @@ title: Evagoras Makridis
 superuser: true
 
 # Role/position/tagline
-role: PhD Student in Distributed Decision and Control of Networked Systems
+role: PhD Student | Distributed Decision and Control of Networked Systems
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -19,8 +19,8 @@ bio: My research interests include autonomous systems in networks, distributed o
 # Interests to show in About widget
 interests:
 - Distributed Optimization
-- Multi-Agent Systems
-- Autonomous Systems
+- Distributed Coordination
+- Distributed Estimation and Control of Multi-Agent Systems
 - Reinforcement Learning
 
 # Education to show in About widget
