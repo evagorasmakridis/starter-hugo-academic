@@ -25,6 +25,14 @@ date_format: Jan 2006
 item:
 - certificate_url:
   date_end: ""
+  date_start: "2024-07-31"
+  description: "Two papers have been accepted for publication and presentation at the CDC 2024 Conference. (a) 'Average Consensus over Directed Networks in Open Multi-Agent Systems with Acknowledgement Feedback' and (b) 'A Fully Distributed LTI Estimation Scheme Over Directed Graph Topologies'"
+  organization: IEEE Conference on Decision and Control (CDC)
+  organization_url: https://cdc2024.ieeecss.org/
+  title: 'Accepted Conference Papers'
+  url: ""
+- certificate_url:
+  date_end: ""
   date_start: "2024-05-16"
   description: "Our journal paper with title: 'A Fully Distributed LTI Estimation Scheme Over Directed Graph Topologies', has been accepted for publication at the IEEE Control Systems Letters"
   organization: IEEE Control Systems Letters (L-CSS)
