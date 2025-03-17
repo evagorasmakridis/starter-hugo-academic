@@ -25,6 +25,14 @@ date_format: Jan 2006
 item:
 - certificate_url:
   date_end: ""
+  date_start: "2025-03-07"
+  description: "Three papers have been accepted for publication and presentation at the ECC 2025 Conference. (a) 'Remote Estimation over Packet-Dropping Wireless Channels with Partial State Information', (b) 'Distributed Gradient-Tracking Optimization with Packet-Error Resilience in Unreliable Networks', (c) 'HARQ-based Quantized Average Consensus over Unreliable Directed Network Topologies'."
+  organization: IEEE European Control Conference (ECC)
+  organization_url: https://ecc25.euca-ecc.org
+  title: 'Accepted Conference Papers'
+  url: ""
+- certificate_url:
+  date_end: ""
   date_start: "2024-07-31"
   description: "Two papers have been accepted for publication and presentation at the CDC 2024 Conference. (a) 'Average Consensus over Directed Networks in Open Multi-Agent Systems with Acknowledgement Feedback' and (b) 'A Fully Distributed LTI Estimation Scheme Over Directed Graph Topologies'"
   organization: IEEE Conference on Decision and Control (CDC)
