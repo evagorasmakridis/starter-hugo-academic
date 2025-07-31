@@ -25,6 +25,22 @@ date_format: Jan 2006
 item:
 - certificate_url:
   date_end: ""
+  date_start: "2025-07-31"
+  description: "Three papers have been accepted for publication and presentation at the IEEE CDC 2025 Conference. (a) 'Average Consensus with Dynamic Compression in Bandwidth-Limited Directed Networks', (b) 'Multi-cluster distributed optimization in open multi-agent systems over directed graphs with acknowledgement messages', (c) 'Quantized average consensus with a plateau escaping strategy in undirected graphs'."
+  organization: IEEE Conference on Decision and Control (CDC)
+  organization_url: https://cdc2025.ieeecss.org/
+  title: 'Accepted Conference Papers'
+  url: ""
+- certificate_url:
+  date_end: ""
+  date_start: "2024-07-31"
+  description: "Our journal paper with title: 'Quantized average consensus with a plateau escaping strategy in undirected graphs', has been accepted for publication at the IEEE Control Systems Letters"
+  organization: IEEE Control Systems Letters (L-CSS)
+  organization_url: https://ieeexplore.ieee.org/abstract/document/11021366
+  title: 'Accepted Journal Paper'
+  url: ""  
+- certificate_url:
+  date_end: ""
   date_start: "2025-03-07"
   description: "Three papers have been accepted for publication and presentation at the ECC 2025 Conference. (a) 'Remote Estimation over Packet-Dropping Wireless Channels with Partial State Information', (b) 'Distributed Gradient-Tracking Optimization with Packet-Error Resilience in Unreliable Networks', (c) 'HARQ-based Quantized Average Consensus over Unreliable Directed Network Topologies'."
   organization: IEEE European Control Conference (ECC)
