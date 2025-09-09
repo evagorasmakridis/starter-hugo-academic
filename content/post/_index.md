@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: EDEM
 cms_exclude: true
 
 # View.
