@@ -1,13 +1,13 @@
 ---
-title: "Remote Estimation over Packet-Dropping Wireless Channels with Partial State Information"
+title: "HARQ-based Quantized Average Consensus over Unreliable Directed Network Topologies"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Ioannis Tzortzis
+- Neofytos Charalambous
 - admin
-- Charalambos D. Charalambous
+- Apostolos I. Rikos
 - Themistoklis Charalambous
 
 # Author notes (optional)
@@ -15,7 +15,7 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2025-10-20T00:00:00Z"
+date: "2024-06-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -28,21 +28,15 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE European Control Conference (ECC)*
+publication: In *European Control Conference (ECC)*
 
-abstract: "In this paper, we address the problem of designing an optimal transmission policy for remote state estimation over packet-dropping wireless channels with imperfect channel
-state information. We consider a setup where a smart sensor performs state estimation of a linear time-invariant (LTI) dynamical system using a Kalman filter. The resulting state
-estimate obtained by the smart sensor at each discrete-time step, is transmitted over the wireless channel to a remote estimator. To balance the trade-off between information freshness and
-reliability, we employ a Hybrid Automatic Repeat reQuest (HARQ) protocol at the smart sensor which has imperfect channel state information in the form of acknowledgment feedback
-signal received by the remote estimator after its attempt to decode the information packets. We formulate this problem as a finite horizon Partially Observable Markov Decision Process
-(POMDP) with an augmented state-space that incorporates both the Age of Information (AoI) and the unknown channel state. By defining an information state that serves as a sufficient
-statistic for optimal decision-making by the smart sensor, we derive the dynamic programming equations for evaluating the optimal policy. This policy is computed numerically using the
-point-based value iteration algorithm."
+abstract: "In this paper, we propose a distributed algorithm (herein called HARQ-QAC) that enables nodes to calculate the average of their initial states by exchanging quantized messages over a directed communication network. In our setting, we assume that our communication network consists of unreliable communication links i.e., links suffering from packet drops). 
+For countering link unreliability our algorithm leverages narrowband error-free feedback channels for acknowledging whether a packet transmission between nodes was successful. Additionally, we show that the feedback channels play a crucial role in enabling our algorithm to exhibit finite-time convergence. We analyze our algorithm and demonstrate its operation via an example, where we illustrate its operational advantages. Finally, simulations corroborate that our proposed algorithm converges to the average of the initial quantized values in a finite number of steps, despite the packet losses. This is the first quantized consensus algorithm in the literature that can handle packet losses and converge to the average. Additionally, the use of the retransmission mechanism allows for accelerating the convergence."
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [remote state estimation, HARQ, POMDP, partial channel state information.]
+tags: [distributed coordination, average consensus, quantized communication, ARQ feedback, packet drops.]
 
 # Display this page in the Featured widget?
 featured: true

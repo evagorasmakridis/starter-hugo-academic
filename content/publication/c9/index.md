@@ -1,12 +1,15 @@
 ---
-title: "Distributed Gradient-Tracking Optimization with Packet-Error Resilience in Unreliable Networks"
+title: "Average Consensus over Directed Networks in Open Multi-Agent Systems with Acknowledgement Feedback"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Sindri Magnusson
+- Andreas Grammenos
+- Gabriele Oliva
+- Evangelia Kalyvianaki
+- Christoforos N. Hadjicostis
 - Themistoklis Charalambous
 
 # Author notes (optional)
@@ -14,7 +17,7 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2025-10-20T00:00:00Z"
+date: "2024-06-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -29,12 +32,12 @@ publication_types: ["1"]
 # Publication name and optional abbreviated publication name.
 publication: In *IEEE Conference on Decision and Control (CDC)*
 
-abstract: "In this paper, we address the distributed optimization problem over unreliable error-prone directed networks. We propose a distributed gradient-tracking optimization algorithm (referred to as ARQ-OPT), which exploits packet retransmissions via an Automatic Repeat reQuest (ARQ) error control protocol. Nodes utilize acknowledgement messages transmitted over one-bit error-free channels to trigger retransmissions of packets that were previously received in error. This ensures reliable propagation of information throughout the network, even in the presence of packet errors. We analyze the convergence properties of the proposed algorithm, by augmenting the consensus matrices to align with the retransmission mechanism. Subsequently, we show that by appropriately choosing the maximum number of retransmission attempts, ARQ-OPT can achieve B-step consensus contractivity which allow us to establish asymptotic convergence to the unique optimal solution with probability one. Numerical simulations conducted under various channel conditions validate our ﬁndings."
+abstract: "In this paper, we address the distributed average consensus problem over directed networks in open multi-agent systems (OMAS), where the stability of the network is disrupted by frequent agent arrivals and departures, leading to a time-varying average consensus target. To tackle this challenge, we introduce a novel ratio consensus algorithm OPENRC based on acknowledgement feedback, designed to be robust to agent arrivals and departures, as well as to unbalanced directed network topologies. We demonstrate that when all active agents execute the OPENRC algorithm, the sum of their state variables remains constant during quiescent epochs when the network remains unchanged. By assuming eventual convergence during such quiescent periods following persistent variations in system composition and size, we prove the convergence of the OPENRC algorithm using column-stochasticity and sum-preservation properties. Finally, we apply and evaluate our proposed algorithm in a simulated environment, where agents are departing from and arriving in the network to highlight its resilience against changes in the network size and topology."
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [distributed optimization, directed graphs, ARQ, time-varying delays, packet-errors, gradient tracking.]
+tags: [distributed average consensus, open multi-agent systems, acknowledgement feedback.]
 
 # Display this page in the Featured widget?
 featured: true

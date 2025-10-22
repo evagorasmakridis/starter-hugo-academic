@@ -26,7 +26,7 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE European Control Conference (ECC)*
+publication: In *European Control Conference (ECC)*
 
 abstract: "In this paper, we address the average consensus problem of multi-agent systems for possibly unbalanced and delay-prone networks with directional information flow. We propose a linear distributed algorithm (referred to as RPPAC) that handles asynchronous updates and time-varying heterogeneous information delays. Our proposed distributed algorithm utilizes a surplus-consensus mechanism and information regarding the number of incoming and outgoing links to guarantee state averaging, despite the imbalanced and delayed information flow in directional networks. The convergence of the RPPAC algorithm is examined using key properties of the backward product of time-varying matrices that correspond to different snapshots of the directional augmented network."
 

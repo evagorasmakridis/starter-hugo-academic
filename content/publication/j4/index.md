@@ -29,7 +29,7 @@ doi: "10.1109/LCSYS.2024.3402111"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In IEEE Control Systems Letters
+publication: In *IEEE Control Systems Letters (L-CSS)*
 #publication_short: In *ETFA*
 
 abstract: "This paper introduces a distributed state estimation scheme for linear time-invariant (LTI) discrete-time systems, where observers, with partial observation of the system, communicate with each other over a directed and strongly connected (but not necessarily balanced) graph topology and execute a predefined number of average consensus steps in-between estimation steps. Our methodology departs from previous works in the literature in that it does not require any degree of centralized design nor relies on procedures that might be prone to numerical instability. By leveraging ratio consensus and matrix perturbation theory, we establish a convergence-guaranteeing condition for the number of consensus iterations needed between the steps of the distributed estimation process. This condition becomes the blueprint for a distributed initialization procedure, which allows the agents to collectively select an adequate number of ratio consensus steps."

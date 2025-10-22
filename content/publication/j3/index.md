@@ -29,7 +29,7 @@ doi: "https://arxiv.org/abs/2402.17466"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In Transactions on Automatic Control
+publication: In *IEEE Transactions on Automatic Control (TAC)*
 #publication_short: In *ETFA*
 
 abstract: "This paper considers a strongly connected network of agents, each capable of partially observing and controlling a discrete-time linear time-invariant (LTI) system that is jointly observable and controllable. Additionally, agents collaborate to achieve a shared estimated state, computed as the average of their local state estimates. Recent studies suggest that increasing the number of average consensus steps between state estimation updates allows agents to choose from a wider range of state feedback controllers, thereby potentially enhancing control performance. However, such approaches require that agents know the input matrices of all other nodes, and the selection of control gains is, in general, centralized. Motivated by the limitations of such approaches, we propose a new technique where: (i) estimation and control gain design is fully distributed and finite-time, and (ii) agent coordination involves a finite-time exact average consensus subroutine, allowing arbitrary selection of the convergence rate of the overall asymptotic estimation process despite the estimator’s distributed nature. We verify our methodology’s effectiveness using illustrative numerical simulations."
