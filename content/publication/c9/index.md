@@ -1,13 +1,12 @@
 ---
-title: "Quantized average consensus with a plateau escaping strategy in undirected graphs"
+title: "Distributed Gradient-Tracking Optimization with Packet-Error Resilience in Unreliable Networks"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Gabriele Oliva
-- Camilla Fioravanti
 - admin
+- Sindri Magnusson
 - Themistoklis Charalambous
 
 # Author notes (optional)
@@ -15,8 +14,8 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "2025-06-02T00:00:00Z"
-doi: "10.1109/LCSYS.2025.3576065"
+date: "2025-10-20T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
@@ -25,28 +24,27 @@ doi: "10.1109/LCSYS.2025.3576065"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In IEEE Control Systems Letters
-#publication_short: In *ETFA*
+publication: In *IEEE Conference on Decision and Control (CDC)*
 
-abstract: "In this letter, the average consensus problem has been considered for undirected networks under finite bit-rate communication. While other algorithms reach approximate average consensus or require global information about the network for reaching the exact average consensus, we propose a fully distributed consensus algorithm that incorporates an adaptive quantization scheme and achieves convergence to the exact average while only requiring knowledge of an upper bound of the network diameter. Using Lyapunov stability analysis, we characterize the convergence properties of the resulting nonlinear quantized system. Moreover, we provide a fully distributed strategy to escape plateaux, i.e., situations where the Lyapunov function stops descending. Simulation results justify the performance of our proposed algorithm."
+abstract: "In this paper, we address the distributed optimization problem over unreliable error-prone directed networks. We propose a distributed gradient-tracking optimization algorithm (referred to as ARQ-OPT), which exploits packet retransmissions via an Automatic Repeat reQuest (ARQ) error control protocol. Nodes utilize acknowledgement messages transmitted over one-bit error-free channels to trigger retransmissions of packets that were previously received in error. This ensures reliable propagation of information throughout the network, even in the presence of packet errors. We analyze the convergence properties of the proposed algorithm, by augmenting the consensus matrices to align with the retransmission mechanism. Subsequently, we show that by appropriately choosing the maximum number of retransmission attempts, ARQ-OPT can achieve B-step consensus contractivity which allow us to establish asymptotic convergence to the unique optimal solution with probability one. Numerical simulations conducted under various channel conditions validate our ﬁndings."
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Quantized average consensus,undirected graphs,adaptive quantization,plateau escaping strategy,multi-agent systems.]
+tags: [distributed optimization, directed graphs, ARQ, time-varying delays, packet-errors, gradient tracking.]
 
 # Display this page in the Featured widget?
 featured: true
 
 # Custom links (uncomment lines below)
 # links:
-# - name: Custom Link
-#   url: http://example.org
+#- name: Demo Video
+#  url: https://www.youtube.com/watch?v=pEBHR3MTPuA
 
-url_pdf: ''
+url_pdf: 'https://www.evagoras.org/publication/c9/example.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
