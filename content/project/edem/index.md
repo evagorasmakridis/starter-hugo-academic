@@ -31,9 +31,12 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-<div align="justify" 
+<div align="justify">
 
-The EDEM project aims to develop a distributed framework to coordinate renewable energy resources, storage, and electric vehicles despite unstable communication and computational constraints. By enabling resilient peer-to-peer data exchange and dynamic bidding strategies, it aims to improve grid reliability and increase energy savings for local communities. A simulation suite and prototype will validate the approach using real operational data under varying grid and market conditions. The project is funded by the Research and Innovation Foundation (RIF) of Cyprus under the call PhD in Industry/1124, with project no. 0090.
+The EDEM project aims to develop a distributed framework to coordinate renewable energy resources, storage, and electric vehicles despite unstable communication and computational constraints. By enabling resilient peer-to-peer data exchange and dynamic bidding strategies, it aims to improve grid reliability and increase energy savings for local communities. A simulation suite and prototype will validate the approach using real operational data under varying grid and market conditions. The project is funded by the Research and Innovation Foundation (RIF) of Cyprus under the PhD in Industry Call 1124, Project No. 0090.
 
-<div align="center" 
+</div>
+
+<div align="center">
 STAY TUNED!
+</div>
