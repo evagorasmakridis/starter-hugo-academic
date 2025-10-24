@@ -22,6 +22,9 @@ main:
   - name: Publications
     url: '#publications'
     weight: 50
+  - name: Projects
+    url: './project/edem'
+    weight: 50    
   - name: Contact
     url: '#contact'
     weight: 60
