@@ -11,7 +11,7 @@ date: "2025-09-09T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by Evagoras
+  caption: © 2025 Evagoras Makridis
   focal_point: Smart
 
 links:
