@@ -37,7 +37,7 @@ abstract: "This paper introduces a distributed state estimation scheme for linea
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Distributed Estimation, Ratio Consensus, Ma- trix Perturbation Analysis, LTI Systems.]
+tags: [Distributed Estimation, Ratio Consensus, Matrix Perturbation Analysis, LTI Systems.]
 
 # Display this page in the Featured widget?
 featured: true
