@@ -1,5 +1,5 @@
 ---
-title: EDEM ~ Efficient Distributed Energy Management
+title: Efficient Distributed Energy Management (EDEM)
 summary: An example of using the in-built project page.
 tags:
 - resource management
@@ -33,4 +33,7 @@ slides: ""
 ---
 <div align="justify" 
 
-The EDEM project aims to develop a distributed framework to coordinate renewable energy resources, storage, and electric vehicles despite unstable communication and computational constraints. By enabling resilient peer-to-peer data exchange and dynamic bidding strategies, it aims to improve grid reliability and increase energy savings for local communities. A simulation suite and prototype will validate the approach using real operational data under varying grid and market conditions.
+The EDEM project aims to develop a distributed framework to coordinate renewable energy resources, storage, and electric vehicles despite unstable communication and computational constraints. By enabling resilient peer-to-peer data exchange and dynamic bidding strategies, it aims to improve grid reliability and increase energy savings for local communities. A simulation suite and prototype will validate the approach using real operational data under varying grid and market conditions. The project is funded by the Research and Innovation Foundation (RIF) of Cyprus under the call PhD in Industry/1124, with project no. 0090.
+
+<div align="center" 
+STAY TUNED!
