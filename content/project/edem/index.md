@@ -1,5 +1,7 @@
 ---
 title: Efficient Distributed Energy Management (EDEM)
+cms_exclude: true
+
 summary: An example of using the in-built project page.
 tags:
 - resource management
