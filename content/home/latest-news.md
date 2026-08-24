@@ -26,7 +26,7 @@ item:
 - certificate_url:
   date_end: ""
   date_start: "2026-03-31"
-  description: "Our paper with title 'Remote Estimation under Energy-Aware Multisensor Admission Control Over Unreliable Channels' have been accepted for publication and presentation at the IEEE ECC 2026 Conference.
+  description: "Our paper with title 'Remote Estimation under Energy-Aware Multisensor Admission Control Over Unreliable Channels' have been accepted for publication and presentation at the IEEE ECC 2026 Conference."
   organization: IEEE European Control Conference (ECC)
   organization_url: https://ecc26.euca-ecc.org
   title: 'Accepted Conference Papers'
