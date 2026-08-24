@@ -26,12 +26,12 @@ item:
 - certificate_url:
   date_end: ""
   date_start: "2026-03-31"
-  description: "Our paper with title 'Remote Estimation under Energy-Aware Multisensor Admission Control Over Unreliable Channels' have been accepted for publication and presentation at the European Control Conference (ECC) 2026.
+  description: "Our paper with title 'Remote Estimation under Energy-Aware Multisensor Admission Control Over Unreliable Channels' have been accepted for publication and presentation at the IEEE ECC 2026 Conference.
   organization: IEEE European Control Conference (ECC)
   organization_url: https://ecc26.euca-ecc.org
   title: 'Accepted Conference Papers'
   url: ""
-  - certificate_url:
+- certificate_url:
   date_end: ""
   date_start: "2025-07-31"
   description: "Three papers have been accepted for publication and presentation at the IEEE CDC 2025 Conference. (a) 'Average Consensus with Dynamic Compression in Bandwidth-Limited Directed Networks', (b) 'Multi-cluster distributed optimization in open multi-agent systems over directed graphs with acknowledgement messages', (c) 'Quantized average consensus with a plateau escaping strategy in undirected graphs'."
