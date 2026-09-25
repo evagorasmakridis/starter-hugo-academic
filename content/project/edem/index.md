@@ -21,7 +21,7 @@ links:
 - icon: linkedin
   icon_pack: fab
   name: Follow
-  url: https://www.linkedin.com/in/evagorasmakridis/
+  url: https://www.linkedin.com/company/edem11240090/
 url_code: ""
 url_pdf: ""
 url_slides: ""
